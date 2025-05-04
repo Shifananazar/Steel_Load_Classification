@@ -1,10 +1,10 @@
 # Steel Load Classification - ML Project
 
-## 📌 Objective
+##  Objective
 To predict energy load category (Light, Medium, Maximum) in a steel plant using machine learning techniques.
 
 
-## 🧪 Models Used
+##  Models Used
 - Logistic Regression
 - Decision Tree
 - SVM
