@@ -14,7 +14,7 @@ To build and evaluate various machine learning models that can predict the load 
 
 ## Dataset
 
-* Source:https://www.google.com/url?q=https%3A%2F%2Farchive.ics.uci.edu%2Fdataset%2F851%2Fsteel%2Bindustry%2Benergy%2Bconsumption
+* Source:https:https://archive.ics.uci.edu/dataset/851/steel+industry+energy+consumption
 * Target Variable: `Load_Type`
 
 ### Features
